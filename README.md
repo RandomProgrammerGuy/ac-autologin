@@ -3,13 +3,16 @@ This program is written for automating the Adobe Connect login process. Adobe Co
 
 ## Editions
 > Universal Edition
+
 The Universal Edition is a single app that works with all browsers. It allows you to pick your browser of choice whilst running the program.
 
 Choose the Universal Edition for more convenience
 
 - [Universal Edition] (#universal)
 
+
 > Dedicated Editions
+
 The Dedicated Editions are multiple versions of the program and each one will work with only one browser. You cannot use other browsers unless you download the Dedicated Edition for the other browser
 
 Choose Dedicated Editions for speed and lightness.
